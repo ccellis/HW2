@@ -1,6 +1,7 @@
 # HW 0b010: Verilog Building Blocks
 
-Due: Friday, September 21st before class
+
+Due: September 23rd
 
 This homework prepares some of the gate level primitives you will use in the design of your processor.  You will reuse these modules in several future designs.  Therefore, the structure and test will be in separate modules.
 
@@ -81,4 +82,3 @@ You need to have previously declared `out`, `in1`, and `in2`, to be some sort of
 
 ### Tutorials
 There are some Verilog resources listed on the [course website](https://canvas.instructure.com/courses/1414489/pages/verilog)
-
